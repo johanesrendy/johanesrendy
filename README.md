@@ -23,8 +23,6 @@
 	</a> 
 </p>
 
-<br>
-
 - A passionate Self-taught Front-end developer
 - Surabaya, Indonesia
 - Institut Teknologi Sepuluh Nopember Information System Student
