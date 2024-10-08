@@ -17,7 +17,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johanesrendy&label=Profile%20views&color=1f6feb&style=flat" alt="johanesrendy" /> </p>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=johanesrendy)
 
 - A passionate Self-taught Front-end developer
 - Institut Teknologi Sepuluh Nopember Information System Student
